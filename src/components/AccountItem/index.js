@@ -18,7 +18,7 @@ function AccountItem() {
                     <span>Đào Lê Phương Hoa</span>
                     <FontAwesomeIcon className={cx('check')} icon={faCheckCircle} />
                 </h4>
-                <span className={cx('usernam')}>hoaa.hanassii</span>
+                <span className={cx('username')}>hoaa.hanassii</span>
             </div>
         </div>
     );
